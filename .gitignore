@@ -1,0 +1,6 @@
+*.ipynb
+*.tex
+*.png
+target/
+*.iml
+.idea
